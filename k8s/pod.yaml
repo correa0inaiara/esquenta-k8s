@@ -1,0 +1,14 @@
+# não será utilizado, pois está embutido no deployment.yaml
+
+# apiVersion: v1
+# kind: Pod
+# metadata:
+#   name: webserver
+#   labels:
+#     name: webserver
+# spec:
+#   containers:
+#   - name: webserver
+#     image: ncorrea001/esquentak8s
+#     ports:
+#       - containerPort: 8080
